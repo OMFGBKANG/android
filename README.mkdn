@@ -10,7 +10,7 @@ Ask an owner for forking stuff for gerrit. We will be happy to oblige.
 
 To initialize your local repository using the CyanogenMod trees, use a command like this:
 
-    repo init -u git://github.com/PecanCM/android.git -b cm-10.1
+    repo init -u git://github.com/OMFGBKANG/android.git -b cm-10.1
 
 Then to sync up:
 
